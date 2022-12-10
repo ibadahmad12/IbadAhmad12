@@ -89,7 +89,7 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-![Ibad's github stats](https://github-readme-stats.vercel.app/api?username=IbadAhmadqw&theme=gotham&show_icons=true&include_all_commits=true&)
+![Ibad's github stats](https://github-readme-stats.vercel.app/api?username=IbadAhmad12&theme=gotham&show_icons=true&include_all_commits=true&)
 <br>
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbadAhmad12&layout=compact&theme=gotham&count_private=true&include_all_commits=true" />
 <br><br>
